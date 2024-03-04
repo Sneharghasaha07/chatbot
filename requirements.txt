@@ -1,0 +1,7 @@
+langchain
+pypdf 
+chromadb 
+sentence-transformers 
+python-decouple 
+tiktoken 
+lark
